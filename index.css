@@ -1,0 +1,28 @@
+#myQuestions{
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.question_card{
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+    width: 95%;
+    padding: 1%;
+    margin-bottom: 1%;
+}
+
+#form_submit{
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+    padding: 1%;
+}
+
+#btn_submit{
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-weight: bold;
+}
+
+.answers{
+    float: right;
+}
